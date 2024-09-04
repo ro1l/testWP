@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>產品 &#8211; test</title>
+	<atom:link href="/product/feed" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 29 Jul 2024 10:19:10 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>24234</title>
+		<link>/product/24234</link>
+					<comments>/product/24234#respond</comments>
+		
+		<dc:creator><![CDATA[qwer90218]]></dc:creator>
+		<pubDate>Sat, 20 Jul 2024 12:05:12 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=116</guid>
+
+					<description><![CDATA[234234]]></description>
+										<content:encoded><![CDATA[<p>234234</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/24234/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>123123</title>
+		<link>/product/123123</link>
+					<comments>/product/123123#respond</comments>
+		
+		<dc:creator><![CDATA[qwer90218]]></dc:creator>
+		<pubDate>Sat, 20 Jul 2024 07:24:41 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=115</guid>
+
+					<description><![CDATA[ewfewfewf]]></description>
+										<content:encoded><![CDATA[<p>ewfewfewf</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/123123/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>產品</title>
+		<link>/product/%e7%94%a2%e5%93%81</link>
+					<comments>/product/%e7%94%a2%e5%93%81#respond</comments>
+		
+		<dc:creator><![CDATA[qwer90218]]></dc:creator>
+		<pubDate>Tue, 16 Jul 2024 01:56:39 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=86</guid>
+
+					<description><![CDATA[123]]></description>
+										<content:encoded><![CDATA[<p>123</p>
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/product/%e7%94%a2%e5%93%81/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
