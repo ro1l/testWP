@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	〈lipsum as it is sometimes known〉的留言	</title>
-	<atom:link href="/222-2/feed" rel="self" type="application/rss+xml" />
-	<link>/222-2</link>
+	<atom:link href="https://ro1l.github.io/testWP/222-2/feed" rel="self" type="application/rss+xml" />
+	<link>https://ro1l.github.io/testWP/222-2</link>
 	<description></description>
 	<lastBuildDate>Sat, 20 Jul 2024 04:36:13 +0000</lastBuildDate>
 	<sy:updatePeriod>

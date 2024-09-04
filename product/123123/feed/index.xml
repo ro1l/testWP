@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	〈123123〉的留言	</title>
-	<atom:link href="/product/123123/feed" rel="self" type="application/rss+xml" />
-	<link>/product/123123</link>
+	<atom:link href="https://ro1l.github.io/testWP/product/123123/feed" rel="self" type="application/rss+xml" />
+	<link>https://ro1l.github.io/testWP/product/123123</link>
 	<description></description>
 	<lastBuildDate>Mon, 22 Jul 2024 00:44:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
